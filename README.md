@@ -1,3 +1,1 @@
-# school21-readme
-
-tasks
+# tasks
